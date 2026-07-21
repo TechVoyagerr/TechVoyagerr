@@ -22,7 +22,7 @@ My products are commercial, so their source is private — each pinned repositor
 |---|---|
 | **[Orately](https://github.com/TechVoyagerr/orately)** | AI speech-coaching app: 40+ edge functions, 180+ DB migrations, fault-tolerant AI pipeline, Apple Watch + widgets — **live on the [App Store](https://apps.apple.com/in/app/articulation-coach-ai-orately/id6765478314)** with paid subscriptions |
 | **[Lane Battler](https://github.com/TechVoyagerr/lane-battler)** | Server-authoritative 1v1 multiplayer: Unity 6 client, Colyseus/TS match server, deterministic simulation, cheat-resistant economy |
-| **[ZenPlay](https://github.com/TechVoyagerr/zenplay)** | Distraction-free learning platform (MERN + Next.js 15): streaming AI presentation generator, quota-proof Gemini integration |
+| **[ZenPlay](https://github.com/TechVoyagerr/zenplay-platform)** | Distraction-free learning platform (MERN + Next.js 15): streaming AI presentation generator, quota-proof Gemini integration |
 | **[Cadence](https://github.com/TechVoyagerr/cadence)** | On-device AI meeting note-taker for iOS: 14-language local transcription, three-engine AI cascade, semantic search |
 
 …plus 15+ additional apps and prototypes across iOS, macOS, web, and Unity.
