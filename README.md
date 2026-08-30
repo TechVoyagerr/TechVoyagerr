@@ -2,13 +2,13 @@
 
 # Hi, I'm Adarsh Kumar 👋
 
-**Software Development Engineer · Full-Stack · iOS · AI/LLM Product Systems**
+**Game Systems · Real-Time Multiplayer · Backend · iOS**
 
-B.Tech CSE (2027), India. I design, build, ship, and operate software products end-to-end: from SwiftUI frontends to Postgres schemas, payment webhooks, and AI pipelines.
+Final year CS student at SRM who builds game systems, real-time multiplayer, and backend services, and ships iOS apps. B.Tech CSE (2027), India.
 
 [![App Store](https://img.shields.io/badge/My_live_app-Orately-blue?logo=apple&logoColor=white)](https://apps.apple.com/in/app/articulation-coach-ai-orately/id6765478314)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Knight_·_560%2B_solved-orange?logo=leetcode&logoColor=white)](https://leetcode.com/u/DataPhoenix/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-adarshk28-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adarshk28)
+[![LeetCode](https://img.shields.io/badge/LeetCode-CoderBuddie-orange?logo=leetcode&logoColor=white)](https://leetcode.com/u/CoderBuddie)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-adk28-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adk28)
 
 </div>
 
@@ -16,4 +16,31 @@ B.Tech CSE (2027), India. I design, build, ship, and operate software products e
 
 ## What I build
 
-My products are commercial, so their source is private — each pinned repository below is an **architecture showcase**: what the product does, how it's designed, and the engineering decisions behind it.
+Most of my products are commercial, so their source is private. Each repository below is an **architecture showcase**: what the product does, how it is designed, and the engineering decisions behind it.
+
+| Project | What it is |
+|---|---|
+| **[Lane Battler](https://github.com/TechVoyagerr/lane-battler)** | Real-time 1v1 lane battler for iOS and Android: deterministic pure C# battle simulation, Unity 6 URP client, Colyseus TypeScript authoritative match server |
+| **[Fall Line](https://github.com/TechVoyagerr/fall-line)** | 3D downhill racing game in TypeScript and Three.js: deterministic simulation core, input-only bot opponents, procedural tracks, iOS via Capacitor |
+| **[Orately](https://github.com/TechVoyagerr/orately)** | AI speech-coaching app: 40+ edge functions, 180+ DB migrations, fault-tolerant AI pipeline, Apple Watch and widgets. Live on the [App Store](https://apps.apple.com/in/app/articulation-coach-ai-orately/id6765478314) with paid subscriptions |
+| **[Surfaced](https://github.com/TechVoyagerr/surfaced-aso)** | App Store Optimization analytics platform: FastAPI data plane, TimescaleDB time series, ingestion workers, keyword scoring engine, Next.js dashboard |
+| **[DSA in C++](https://github.com/TechVoyagerr/dsa-cpp)** | My data structures and algorithms practice, organized by pattern rather than by problem list |
+
+Also public: **[ZenPlay](https://github.com/TechVoyagerr/zenplay-platform)**, a distraction-free learning platform (MERN and Next.js 15) with a streaming AI presentation generator, and **[Cadence](https://github.com/TechVoyagerr/cadence)**, an on-device AI meeting note-taker for iOS with 14-language local transcription and semantic search.
+
+Plus 15+ additional apps and prototypes across iOS, macOS, web, and Unity.
+
+## How I work
+
+- **Ship and operate, not just build**: subscriptions, webhooks, release automation, scheduled jobs, observability
+- **Determinism where it matters**: fixed ticks, integer math, seeded RNG, and replay verification instead of trusting the client
+- **Reliability as a feature**: idempotent writes, atomic job claims, retry contracts, graceful AI fallbacks
+- **Security by schema**: row-level security, server-side receipt verification, HMAC-verified webhooks
+
+## Stack
+
+`C#` `TypeScript` `Python` `Swift` `C++` `SQL` · `Unity 6` `Three.js` `SwiftUI` `React` `Next.js` `Node.js` `FastAPI` · `PostgreSQL` `TimescaleDB` `MongoDB` `Redis` · `Colyseus` `Supabase` `Docker` `CI/CD` `fastlane`
+
+---
+
+📫 **adk08644@gmail.com**. Happy to walk through any of these systems in depth.
