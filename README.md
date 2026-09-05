@@ -20,7 +20,7 @@ Most of my products are commercial, so their source is private. Each repository 
 
 | Project | What it is |
 |---|---|
-| **[Recovery Agent](https://github.com/TechVoyagerr/recovery-agent)** | Autonomous AI agent that detects failed Razorpay payments, diagnoses the failure reason, chooses channel and timing, sends Payment Links, and learns from outcomes. Built for the Razorpay AI Builder Internship 2026: Next.js 15, Prisma, Razorpay SDK, deterministic rule engine with LLM copy polish, HMAC-verified webhooks, 56 tests |
+| **[Recovery Agent](https://github.com/TechVoyagerr/recovery-agent)** | Autonomous AI agent that detects failed online payments, diagnoses the failure reason, chooses channel and timing, sends Payment Links, and learns from outcomes. Built for a payments AI buildathon: Next.js 15, Prisma, payment gateway SDK, deterministic rule engine with LLM copy polish, HMAC-verified webhooks, 56 tests |
 | **[Orately](https://github.com/TechVoyagerr/orately)** | AI speech-coaching app: 40+ edge functions, 180+ DB migrations, fault-tolerant AI pipeline, Apple Watch and widgets. Live on the [App Store](https://apps.apple.com/in/app/articulation-coach-ai-orately/id6765478314) with paid subscriptions and server-verified webhooks |
 | **[Lane Battler](https://github.com/TechVoyagerr/lane-battler)** | Real-time 1v1 lane battler for iOS and Android: deterministic pure C# battle simulation, Unity 6 URP client, Colyseus TypeScript authoritative match server |
 | **[Fall Line](https://github.com/TechVoyagerr/fall-line)** | 3D downhill racing game in TypeScript and Three.js: deterministic simulation core, input-only bot opponents, procedural tracks, iOS via Capacitor |
@@ -40,7 +40,7 @@ Plus 15+ additional apps and prototypes across iOS, macOS, web, and Unity.
 
 ## Stack
 
-`C#` `TypeScript` `Python` `Swift` `C++` `SQL` · `Unity 6` `Three.js` `SwiftUI` `React` `Next.js` `Node.js` `FastAPI` `Prisma` · `PostgreSQL` `SQLite` `TimescaleDB` `MongoDB` `Redis` · `Razorpay` `Colyseus` `Supabase` `Docker` `CI/CD` `fastlane`
+`C#` `TypeScript` `Python` `Swift` `C++` `SQL` · `Unity 6` `Three.js` `SwiftUI` `React` `Next.js` `Node.js` `FastAPI` `Prisma` · `PostgreSQL` `SQLite` `TimescaleDB` `MongoDB` `Redis` · `Payment gateways` `Colyseus` `Supabase` `Docker` `CI/CD` `fastlane`
 
 ---
 
